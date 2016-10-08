@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-lt",
+  "description": "The most comprehensive collection of stopwords for the lithuanian language.",
+  "keywords": [
+    "lithuanian",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-lt",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-lt.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
